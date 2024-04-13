@@ -14,8 +14,17 @@ const zadanie1 = {
 
 // WARTOSCI DO ZADANIA 2
 
+const zadanie2 = {
+  R: 7.1,
+  L: 0.5,
+  F1: 23.42,
+  U: 50.0,
+  F2: 54.33,
+};
+
 const wartosci = {
   zadanie1,
+  zadanie2,
 };
 
 module.exports = wartosci;
