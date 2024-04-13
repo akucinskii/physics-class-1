@@ -8,4 +8,4 @@ Następnie w konsoli wpisujemy komendę:
 npm start
 ```
 
-W konsoli powinny wyświetlić się wyniki zadań. `:shipit:`
+W konsoli powinny wyświetlić się wyniki zadań. :shipit:
