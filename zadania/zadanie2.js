@@ -30,7 +30,7 @@ const Zadanie2 = () => {
 
   const Uc2 = J * Xc2;
 
-  console.log("Napięcie na kondensatorze przy F2 wynosi : ", Uc2 + "Mv");
+  console.log("Napięcie na kondensatorze przy F2 wynosi : ", Uc2 + "mV");
 };
 
 module.exports = Zadanie2;
